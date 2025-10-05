@@ -81,3 +81,5 @@ For questions about compliance or usage, please contact us directly.
 We are a team of automation specialists dedicated to creating safe, efficient, and user-friendly tools for FetLife members. Our mission is to help you maximize your presence on the platform while saving time and effort. Let us handle the technical side so you can focus on building meaningful connections.
 
 Ready to elevate your FetLife experience? Reach out today to explore our services and start automating with confidence!
+
+Get in touch via Discord @aisocials
