@@ -82,4 +82,4 @@ We are a team of automation specialists dedicated to creating safe, efficient, a
 
 Ready to elevate your FetLife experience? Reach out today to explore our services and start automating with confidence!
 
-Get in touch via Discord @aisocials
+Get in touch via Discord @aisocials for more information.
